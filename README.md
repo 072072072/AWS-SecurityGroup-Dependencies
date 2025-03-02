@@ -1,4 +1,5 @@
-# awssec
+# /check-aws-security-group-dependencies-072.sh
+
 Screenshot:
 ![image](https://github.com/user-attachments/assets/60d5043e-2a45-4f8c-9108-ab6c6e8786a7)
 
