@@ -26,7 +26,9 @@ Screenshot:
   ./check-aws-security-group-dependencies-072.sh -i sg-0123456789
   ./check-aws-security-group-dependencies-072.sh -n ec2-sbs-web-test -i sg-0123456789
 
+```
 
-# find-unused-security-groups.py
+
+# Find-unused-security-groups.py
 ..업데이트중입니다.
 
